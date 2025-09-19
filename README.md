@@ -58,3 +58,29 @@ lib/experiment2/widgets/custom_widget.dart
 Head to the experiment folder.  
 Grab dependencies via flutter pub get.  
 Start the app with flutter run.  
+
+# Experiment 3
+Where to Find It / Key Files
+
+Core code: lib/experiment3/main.dart  
+Visual aids: assets/images/experiment3a.png, assets/images/experiment3b.png  
+
+# Brief Overview
+Explore screen transitions, app navigation, and handling multi-page interfaces in Flutter.  
+Identified Files  
+
+lib/experiment3/main.dart
+lib/experiment3/screens/home_screen.dart
+
+# Visuals
+
+![Experiment 1](assets/images/experiment3a.png)  
+![Experiment 1](assets/images/experiment3b.png)
+
+# Getting It Running
+
+Load the folder into your IDE.  
+Fetch packages with flutter pub get.  
+Test it out on a simulator or connected device.  
+
+
